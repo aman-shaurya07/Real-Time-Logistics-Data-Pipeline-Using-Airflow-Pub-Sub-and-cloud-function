@@ -1,4 +1,4 @@
-# Real-Time Logistics Data Pipeline Using Airflow, Pub/Sub and cloud function.
+# Real-Time Logistics Data Pipeline Using Airflow, Pub/Sub and cloud function
 
 ## Overview
 This project demonstrates a **real-time event-driven Big Data pipeline** using **Apache Airflow** and **Google Cloud Pub/Sub**. The pipeline processes logistics data uploaded to **Google Cloud Storage (GCS)**, runs Hive queries on a **Dataproc cluster**, and archives the processed files. 
